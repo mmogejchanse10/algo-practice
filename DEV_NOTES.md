@@ -17,3 +17,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-30
 - Added CONTRIBUTING.md stub
 - Fixed minor edge case in input handling
+
+## 2026-03-30
+- Tidied up project structure
