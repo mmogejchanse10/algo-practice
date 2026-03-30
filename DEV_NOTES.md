@@ -13,3 +13,7 @@ Personal development log — notes, findings, and ongoing work.
 - Tidied up project structure
 - Cross-checked behaviour against spec
 - Tested build on clean environment
+
+## 2026-03-30
+- Added CONTRIBUTING.md stub
+- Fixed minor edge case in input handling
