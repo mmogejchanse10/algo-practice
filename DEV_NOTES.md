@@ -25,3 +25,6 @@ Personal development log — notes, findings, and ongoing work.
 - Cleaned up old debug logs
 - Improved error handling in edge cases
 - Resolved deprecation warnings
+
+## 2026-04-06
+- Added basic retry logic for network requests
